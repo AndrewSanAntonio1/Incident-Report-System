@@ -43,7 +43,7 @@ Admins can:
 # 🧰 Tools Used
 * IntelliJ IDEA / VS Code
 * Postman (API testing)
-* MySQL Workbench / DBeaver
+* PostgreSQL/ DBeaver
 * Git & GitHub
 * Maven
 
